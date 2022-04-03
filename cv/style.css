@@ -1,0 +1,115 @@
+H1 {color:darkred;}
+H2 {color:darkred;}
+
+
+H1, H2 {
+font-family: 'Roboto', sans-serif;
+}
+
+body{
+font-family: 'Lora', sans-serif;
+background-color:black;
+}
+div {
+background-color: whitesmoke;
+text-align: center;
+padding: 24px;
+width: 70%;
+margin: 16px auto;
+border-radius: 6px;
+box-shadow: 1px 1px 5px 2px #000000b5;
+}
+#avatar{
+width: 200px;
+border-radius: 50%;
+border: 1px solid black;
+object-fit: cover ;}
+
+a {
+	text-decoration: none;
+}
+
+.btnblue {
+background-color: darkred;
+color: whitesmoke;
+padding: 5px 18px;
+border-radius: 30px;
+font-weight: bolder;
+display: block;
+width: 20%;
+margin: 0 auto;
+border: 1px black;
+transition: 1s;
+}
+
+
+.btnblue:hover {
+background-color: beige;
+color: blue;
+transition: 1s;
+}
+
+.list-inline {
+padding: 0;
+list-style: none;
+}
+
+.list-inline li {
+display: inline;
+margin: 0 16px;
+font-size: 40px;
+}
+
+.fa-brands{
+	color: darkblue;
+}
+
+.fa-brands:hover{
+	color: red;
+}
+
+h3
+{
+    text-decoration: underline;
+    }
+
+#job-responsibilities
+{
+    padding: 1px;
+    }
+.job-title
+{
+    font-weight: bold;
+    }
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#company-name
+{
+    height:2px;
+    text-decoration:underline;
+    }
+#job-title
+{
+    height: 5px;
+    }
+.job-duration
+{
+    float:right;
+    }
+#heading
+{
+    font-weight:bold;
+    }
